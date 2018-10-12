@@ -13,7 +13,7 @@ a lo que tu quieras que haga.
 -*Gimp*
 -*InkScape*
 -*Mozilla Firefox*
--*Gparted*
+-*Gparted
 
 
 
