@@ -1,9 +1,11 @@
 <h1>¿Que es GNU/GPL?<h1>
 
+
 <h2>**GNU**<h2>
 
 
 **GNU** es una licencia de derecho de autor ampliamente usada en el mundo del *software libre* y *código abierto*,garantiza a los usuarios la libertad de usar, estudiar, compartir y modificar el software.
+
 
 <h2>**GPL**<h2>
 
