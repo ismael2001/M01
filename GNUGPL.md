@@ -9,6 +9,7 @@
 **GPL** o *General Public License*, desarrollada por *Free Sotfware Foundation* es una empresa donde puedes usar un programa GPL en un ordenador o en los que quieras sin limitación, donde puedes modificar y adaptar tu programa a lo que tu quieras que haga.
 
 **Algunos ejemplos de progamas GNU/GPL**
+
 1.*Gimp*
 
 2.*InkScape*
