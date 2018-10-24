@@ -9,9 +9,11 @@ Miramos el ordenador por dentro, miremos donde estaba situado el PCI Express x16
 **TIP para colocar la pasta térmica**: Con cualquier targeta que dan en alguna tienda, a la hora de mover la pasta térmica es mucho más facil y quedo mucho mejor.
 
 
- -----------------------------------------------------------------------
+
+ -----------------------------------------------------------------------                                   
+ **_**  --> **CORRIENTE CONTINUA**  | **～**  --> **CORRIENTE ALTERNA**
  
- **_**  --> **CORRIENTE CONTINUA** | **～**  --> **CORRIENTE ALTERNA**
+ 
  -----------------------------------------------------------------------
 
 
