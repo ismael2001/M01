@@ -1,6 +1,6 @@
 **BIOS MBR DOS**
 
-**Viejo** - BIOS MBR DOS
+**Viejo** - BIOS MBR DOS **2tb és el tamaño de la partición**
 
 **Nuevo** - UEFI GPT
 
