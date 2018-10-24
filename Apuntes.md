@@ -1,4 +1,4 @@
-**¿Que hizimos en Hardware?**
+<h1>**¿Que hizimos en Hardware?**<h1>
 
 Primero quitemos los tornillos de la torre para poder retirar la tapa lateral, la que esta mas alejado de la placa.
 
