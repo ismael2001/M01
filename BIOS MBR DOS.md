@@ -35,7 +35,7 @@
   
   **UEFI GPT** - **GUID PARTITION TABLE** "no hay primarias, activas..."
   
-  Para cambiar a **MBR** se entra en la **bios** y ponemos el **modo legacy** y al contrario si queremos poner **GPT** cambiamos el modo al **UEFI**.
+  Para cambiar a **MBR** se entra en la **bios** y ponemos el **modo legacy** y al contrario si queremos poner **GPT** cambiamos el modo a **UEFI**.
 
 
 
