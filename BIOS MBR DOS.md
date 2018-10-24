@@ -2,7 +2,7 @@
 
 **Viejo** - BIOS MBR DOS **2tb és el tamaño de la partición máximo**
 
-**Nuevo** - UEFI GPT
+**Nuevo** - UEFI GPT **18 exabytes és el tamaño de la partición máximo**
 
 **MBR DOS**
 
