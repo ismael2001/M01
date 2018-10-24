@@ -20,4 +20,11 @@ Ocupa **64 bytes**, conteniendo 4 registros de 16 bytes.
 
 **Firma de unidad arrancable** ocupa **2 bytes** y esta basado en el sistema hexadecimal.
 
+Parte | Peso
+----------------- | -------------------
+Gestor de arranque| 446 bytes
+Tabla de particiones | 64 bytes 
+Firma de la unidad | 2 bytes
+
+
 
