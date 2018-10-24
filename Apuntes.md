@@ -7,9 +7,9 @@ Probamos el tester, en forma de corriente continua, para saber si funciona el te
 Miramos el ordenador por dentro, miremos donde estaba situado el PCI Express x16 y los otros PCI's, que era la corriente continua y alterna, y como quitar el disipador y colocar la pasta térmica.
 
  
- **_**  **CORRIENTE CONTINUA**  
+ **_**   **CORRIENTE CONTINUA**  
 
-**～**  **CORRIENTE ALTERNA**
+**～**   **CORRIENTE ALTERNA**
     
 
 
