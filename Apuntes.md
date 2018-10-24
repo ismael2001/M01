@@ -10,8 +10,9 @@ Miramos el ordenador por dentro, miremos donde estaba situado el PCI Express x16
 
 
 
- -----------------------------------------------------------------------                                   
-                               **_**  --> **CORRIENTE CONTINUA**  | **～**  --> **CORRIENTE ALTERNA**
+ -----------------------------------------------------------------------    
+  
+                       **_**  --> **CORRIENTE CONTINUA**  | **～**  --> **CORRIENTE ALTERNA**
  
  
  -----------------------------------------------------------------------
