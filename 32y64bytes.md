@@ -7,7 +7,7 @@
 CPU | 32B (mal) 32b
 ----------------- | -------------------
 
-CPU | 64B (mal) 64b
+CPU | 64B (mal) 64b Máximo de ram 16 exabytes
 ----------------- | -------------------
 
 Cada sistema operativo que nosotros instalemos, tendremos que mirar a cuantos **bytes** irá porqué depende mucho de si es de **32** o de **64** bytes, ya que nuestra CPU tiene dos opciones ir a 32b o 64b, si nuestra CPU soporta **32b** instalaremos un S.O que tenga **32bytes** , en cambio si tenemos una CPU que soporta **64b** entonces instalaremos un S.O que tenga **64bytes**.
