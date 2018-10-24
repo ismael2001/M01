@@ -8,16 +8,10 @@ Miramos el ordenador por dentro, miremos donde estaba situado el PCI Express x16
 
 **TIP para colocar la pasta térmica**: Con cualquier targeta que dan en alguna tienda, a la hora de mover la pasta térmica es mucho más facil y quedo mucho mejor.
 
-
-
- -----------------------------------------------------------------------    
-  
-                       _  --> CORRIENTE CONTINUA  | ～  --> CORRIENTE ALTERNA
  
+ _  --> CORRIENTE CONTINUA  | ～  --> CORRIENTE ALTERNA
+----------------- | -------------------
  
- -----------------------------------------------------------------------
-
-
 
 Miramos los conectores de la placa base y el panel frontal, y para saber como colocar los conectores del planel frontal, miramos la marca y la revisión de la placa base y entremos en la página de GigaByte y miramos el manual de la placa base, para poder saber como se conecta el panel frontal.
 
