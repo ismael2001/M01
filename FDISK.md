@@ -16,9 +16,9 @@ Con esta herramienta podremos **crear**, **eliminar**, **redimensionar (restable
 
 - **Borrar una partición**: *selecionamos el disco y pulsamos la d de "delete"*
 
-- **Crear una partición**: pulsamos la n de "new", nos pedirá de qué tipo sea (extendida , primaria o swap) para crear una **extendida** pulsaremos la **e**, para crear una **primaria** la **p** y para crear una **swap** la tecla **t**
+- **Crear una partición**: pulsamos la **n** de "new", nos pedirá de qué tipo sea (extendida , primaria o swap) para crear una **extendida** pulsaremos la **e**, para crear una **primaria** la **p** y para crear una **swap** la tecla **t**
 
-- **Guardar cambios**: *con la tecla w para escribir los cambios*
+- **Guardar cambios**: *con la tecla **w** para escribir los cambios*
 
 - **Formatear una partición**: *mkfs.ext4 /dev/sdb5 (.ext4 que tipo de formato és la partición)*
 
