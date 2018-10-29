@@ -17,7 +17,7 @@ Sí por una razón o otra, no te sabes la de **usuario** lo que debemos de hacer
  
  - En el submenú que aparece elige "netroot" ("root" en las nuevas versiones), para abrir una terminal como superusuario sin contraseña.
  
- - La partición raíz "/", por defecto, se monta con protección contra escritura, por lo que debemos de volver a montarla con permisos de   lectura y escritura (rw) para poder modificar el sistema:**mount -o remount,rw /**
+ - La partición raíz "/", por defecto, se monta con protección contra escritura, por lo que debemos de volver a montarla con permisos de   lectura y escritura (rw) para poder modificar el sistema: **mount -o remount,rw /**
  
  - Ahora cambia tu contraseña ejecutando el comando: passwd tu_nombre_usuario
 
