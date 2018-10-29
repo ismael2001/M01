@@ -10,4 +10,4 @@ Aquí esta la captura del configurador de IP de Windows.
 
 - Le damos clic a **nuestra conexión** a **propiedades**.
 
-- En el **protocolo de Internet versión 4 (TCP/IPV4) a **propiedades**.
+- En el **protocolo de Internet versión 4 (TCP/IPV4)** a **propiedades**.
