@@ -2,6 +2,6 @@
 
 Aquí esta la captura de lshw -gui.
 
-Para instalar el lshw -gui
+Para instalar el lshw -gui.
 
 Abrimos el terminal, nos ponemos como root y ponemos **# dnf install lshw-gui**
