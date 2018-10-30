@@ -14,11 +14,16 @@ El **núcleo o kernel** es la parte central de un sistema operativo y es el que 
 El gestor de ventanas es el conjunto de programas, ventanas, funcionalidades, que hacen posible que el usuario pueda interactuar con el sistema de forma gráfica y no en modo texto.
 
 **X11**
+
  X11 es un protocolo que permite la interacción gráfica en red entre un usuario y uno o más ordenadores, es el encargado de mostrar la información gráfica de forma totalmente independiente del sistema operativo.
  
 **Wayland**
 
-Wayland es un protocolo para gestionar ventanas para Linux, proporciona un método para que el windows manager de ventanas se comuniquen directamente con las aplicaciones y el hardware de vídeo
+Wayland es un protocolo para gestionar ventanas para Linux, proporciona un método para que el windows manager se comunique directamente con las aplicaciones y el hardware de vídeo.
+
+**Display Manager (Gestor de login)**
+
+El gestor de login es una interfaz gráfica que se muestra al final del proceso de arranque, es la pantalla en que la aparece el nombre de usuario y la contraseña que hemos creado en la instalación, una vez puesto el usuario y la contraseña se abrirá el escritorio.
 
 **GUI - CLI**
 
