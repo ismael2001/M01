@@ -9,9 +9,13 @@ El **núcleo o kernel** es la parte central de un sistema operativo y es el que 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/12/Esquema_de_las_capas_de_la_interfaz_gr%C3%A1fica_de_usuario.svg)
 
 
-**X11 Gestor de Ventanas**
+**Gestor de Ventanas**
 
-El gestor de ventanas **X11** común en sistemas operativos del tipo UNIX,
+El gestor de ventanas es el conjunto de programas, ventanas, funcionalidades, que hacen posible que el usuario pueda interactuar con el sistema de forma gráfica y no en modo texto.
+
+**X11**
+
+**Wayland**
 
 **GUI - CLI**
 
