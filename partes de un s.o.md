@@ -25,6 +25,47 @@ Wayland es un protocolo para gestionar ventanas para Linux, proporciona un méto
 
 El gestor de login es una interfaz gráfica que se muestra al final del proceso de arranque, es la pantalla en que la aparece el nombre de usuario y la contraseña que hemos creado en la instalación, una vez puesto el usuario y la contraseña se abrirá el escritorio.
 
+Tenemos que instalar el **gestor de login** para que todo funcione bien.
+
+Y existen varios **gestores de login** y tenemos:
+
+De consola:
+
+El **CMD** (Console Display Manager)
+
+![alt text](https://kmandla.files.wordpress.com/2010/06/cdm.png)
+
+Por defecto el : **GDM (gnome display manager)** que se instala automáticamente.
+
+![alt text](https://3.bp.blogspot.com/-s4nVWtUi7HE/V4-SzK9rDjI/AAAAAAAAC_M/IIHZ2eoU5sMiGaM8vrkc7uO5XB7on-2BgCLcB/s1600/Captura%2Bde%2Bpantalla%2Bde%2B2016-07-19%2B20-12-12.png)
+
+También tenemos los **gestores de login LightDM** que se instala por comandos.
+
+Tenemos el **XFCE**, el **LDXE** y **OpenBox**
+
+Ejemplo de un gestor de login **LightDM**
+
+![alt text](https://steemitimages.com/0x0/http://entornosgnulinux.com/wp-content/uploads/2017/02/lightdm-gtk-greeter.jpg)
+
+**Escritorio**
+
+El escritorio es un conjunto de formas y métodos que posibilitan a los usuarios la interacción con un sistema, empleando botones, íconos, ventanas, fuentes e imágenes.
+
+Y tenemos diferentes escritorios como:
+
+- El **Gnome**
+
+- **LDXE / XFCE**
+
+- **KDE**
+
+- **Mate**
+
+Ejemplo del **escritorio KDE Plasma** 
+
+![alt text](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
+
+
 **GUI - CLI**
 
 **GUI** 
