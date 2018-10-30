@@ -4,7 +4,9 @@
 
 El **núcleo o kernel** es la parte central de un sistema operativo y es el que se encarga de realizar toda la comunicación segura entre el software y el hardware. También debe hacer una gestión de la memoria RAM. Al igual que la memoria, el procesador también debe ser gestionado por el kernel.
 
-**El Kernel es único**
+**El Kernel es único** para ver la versión del **Kernel y del S.O.** lo hacemos con este comando: 
+
+- **uname -a-**
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/12/Esquema_de_las_capas_de_la_interfaz_gr%C3%A1fica_de_usuario.svg)
 
