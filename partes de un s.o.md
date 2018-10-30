@@ -74,13 +74,13 @@ Ejemplo de como sería todo lo que he explicado:
 También disponemos de un **run level** que es:
 
 O | PowerOff
------------------ | -------------------
+
 1 | No services, para entrar a root no pide password
------------------ | -------------------
+
 3 | Funciona todo sin entorno (Servidor)
------------------ | -------------------
+
 5 | Funciona todo + gráfico
------------------ | -------------------
+
 6 | Reboot
 ----------------- | -------------------
 
