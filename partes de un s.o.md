@@ -66,5 +66,13 @@ Ejemplo del **escritorio KDE Plasma**
 ![alt text](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
 
 
+Ejemplo de como sería todo lo que he explicado: 
+
+![alt text](https://user-images.githubusercontent.com/43348980/47730312-34783900-dc62-11e8-820f-0481fd94a458.PNG)
+
+
+También disponemos de un **run level** que es:
+
+
 
 
