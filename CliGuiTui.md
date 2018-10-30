@@ -13,6 +13,12 @@ Interfaz de línea de comandos o command-line interface es un método para manip
 
 ![alt text](https://images.techhive.com/images/article/2016/09/cli-linux-ubuntu-100685362-primary.idge.jpg)
 
+**TUI** 
+
+Interfaz de texto o Text User Interface es una interfaz gráfica que se combina el **CLI** con el **GUI** que utiliza solo texto plano para dibujar las ventanas, botones y decoraciones.
+
+![alt text](http://www.linux-databook.info/wp-content/uploads/2015/04/MC-04.jpeg)
+
 **TIPOS DE GUI**
 
 Tenemos todo tipos de **GUI**, para los que mas les gusta verlo visual hasta un ordenador que tenga pocos recursos.
