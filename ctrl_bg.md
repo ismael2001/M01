@@ -5,7 +5,7 @@
 
 ![alt text](https://user-images.githubusercontent.com/43348980/47800278-458d7c80-dd2c-11e8-87d1-3349af213f5f.PNG)
 
-- Como podeis ver no nos deja ir a la terminal, lo que debemos de hacer será hacer **ctrl+z** 
+- Como podeis ver no nos deja escribir en la terminal, lo que debemos de hacer será hacer **ctrl+z** 
 
 ![alt text](https://user-images.githubusercontent.com/43348980/47800287-49b99a00-dd2c-11e8-8586-7ce07448089d.PNG)
 
