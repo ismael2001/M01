@@ -1,6 +1,6 @@
 **Comando Watch**
 
-**¿Para qué sirve?
+**¿Para qué sirve?**
 
 **Watch** és un comando de linux que puede ejecutar un programa o otro comando cada **X** segundos que le pongamos. 
 
