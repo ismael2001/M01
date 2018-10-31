@@ -13,7 +13,7 @@ También tenemos el **CPU-Z** y el **Speccy**
 
 **CPU-Z**
 
-![alt text]()
+![alt text](https://user-images.githubusercontent.com/43348980/47796817-63a3ae80-dd25-11e8-93d4-31c29fa7def0.PNG)
 
 
 
