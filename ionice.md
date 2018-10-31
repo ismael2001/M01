@@ -2,7 +2,7 @@
 
 **¿Que es?**
 
-Ionice és un programa que establece un tipo de programación de **io** y una prioridad para un programa, si no se proporciona la suficiente información con el comando **-p**, lo que hace este comando es consultar que tipo de programación y que prioridad tiene para ese processo. 
+Ionice és un programa que establece un tipo de programación de **io** y una prioridad para un processo, si no se proporciona la suficiente información, con el comando **-p** lo que hace es consultar que tipo de programación y que prioridad tiene para ese processo. 
 
 A partir de eso, el processo puede estar en una de los tres tipos de programación:
 
