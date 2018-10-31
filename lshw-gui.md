@@ -5,3 +5,20 @@ Aquí esta la captura de lshw -gui.
 Para instalar el lshw -gui.
 
 Abrimos el terminal, nos ponemos como root y ponemos **# dnf install lshw-gui**
+
+
+
+También tenemos el **CPU-Z** y el **Speccy**
+
+
+**CPU-Z**
+
+![alt text]()
+
+
+
+
+**Speecy** 
+
+
+![alt text]()
