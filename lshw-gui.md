@@ -21,4 +21,4 @@ También tenemos el **CPU-Z** y el **Speccy**
 **Speecy** 
 
 
-![alt text]()
+![alt text](https://user-images.githubusercontent.com/43348980/47796824-669e9f00-dd25-11e8-8ea6-ab191ae32140.PNG)
