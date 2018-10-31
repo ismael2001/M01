@@ -8,7 +8,7 @@ Abrimos el terminal, nos ponemos como root y ponemos **# dnf install lshw-gui**
 
 
 
-También tenemos el **CPU-Z** y el **Speccy**
+También tenemos el **CPU-Z** y el **Speccy** para **Windows**
 
 
 **CPU-Z**
