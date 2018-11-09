@@ -79,5 +79,53 @@
 - GitLab
 - Que es MarkDown
 
+19.Deberes crear cuenta en Gitlab y Github y ponerlo en Markdown
+
+20.GNU/GPL en markdown
+
+21.Práctica: uso del tester y diagnóstico de PC
+
+22.Que contiene el MBR
+- Tabla de particiones
+- Boot Manager
+- Firma 
+
+23.Borrar y crear particiones en Fdisk
+
+24.Clusters y Sectores
+
+25.Formato de un Pen/DD
+
+- FAT32
+
+26.Arquitectura 32 bits y 64 bits
+
+- En sistemas operativos
+- En CPU
+
+27.Repaso particiones
+
+28.Sistema Operativo Linux
+
+- Kernel
+- Run level
+- XII/Wayland
+- Window Manager
+- Display Manager (GDM y Lightdm)
+- Escritorio
+
+29.CLI, GUI i TUI
+
+30.Instalar Openbox
+
+31.Captura configuración de red en Windows 
+
+32.Comando Watch, ionice, Ctrl+Z, bg, parametro & y significado ~
+
+33.Práctica fdisk desde archivo
+
+- MBR
+- GPT
+
 
 
