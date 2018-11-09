@@ -16,13 +16,13 @@
 
 4.Configuración BIOS
 
-- oot Menu
+- Boot Menu
 
-- oot Sequence
+- Boot Sequence
 
-- an Boot
+- Lan Boot
 
--IDE-AHCI
+- IDE-AHCI
 
 5.Instalación Fedora 27
 
