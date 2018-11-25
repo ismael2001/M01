@@ -24,4 +24,26 @@ Pero tenemos un **apaño** que si por una razón u otra no nos va el **partprobe
 
 **Kpartx -a "disco"**
 
+Y nos quedará guardado en **mapper** y para entrar deberemos de hacer **ls "disco"/mapper/"disco". 
+
+**Comandos Particiones** 
+
+**a** -> partición boot
+
+**n** -> creamos partición
+
+**l** -> partición lógica
+
+**p** -> partición primaria 
+
+**e** -> partición extendida
+
+**t** -> cambiamos tipo 
+
+**82** -> swap
+
+**7** -> ntfs 
+
+
+
 
