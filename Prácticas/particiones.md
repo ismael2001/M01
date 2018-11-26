@@ -24,7 +24,7 @@ Pero tenemos un **apaño** que si por una razón u otra no nos va el **partprobe
 
 **Kpartx -a "disco"**
 
-Y nos quedará guardado en **mapper** y para entrar deberemos de hacer **ls "disco"/mapper/"disco". 
+Y estará guardado en **mapper** y para entrar deberemos de hacer **ls "disco"/mapper/"disco"**. Y por último comenzaremos a poner sistema de archivos con: **mkfs** o **mkswap**. 
 
 **Comandos Particiones** 
 
